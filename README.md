@@ -22,7 +22,7 @@ Neste projeto foi feito uma aplicação que renderiza os cards de 251 pokémons 
  
  - Entre na pasta do repositório que você acabou de clonar:
     
- `cd poke-next
+ `cd poke-next`
 
 ## Rodando localmente
 
