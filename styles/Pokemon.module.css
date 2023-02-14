@@ -26,6 +26,10 @@
   padding: 5px;
 }
 
+.id_container {
+  margin-bottom: 20px;
+}
+
 .types_container {
   display: flex;
   align-items: center;
@@ -133,6 +137,6 @@
 
 .data_height {
   border-right: 1px solid #ccc;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
