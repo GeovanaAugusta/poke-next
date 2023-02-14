@@ -8,7 +8,9 @@ Neste projeto foi feito uma aplicação que renderiza os cards de 251 pokémons 
 
 - CSS modules;
 
-- getStaticProps (pré-renderização da página) e getStaticPaths (pré-renderização de todas as paths);
+- Aplicação da getStaticProps (pré-renderização da página);
+
+- Aplicação da getStaticPaths (pré-renderização de todas as paths);
 
 - Routes e nested routes.
 
