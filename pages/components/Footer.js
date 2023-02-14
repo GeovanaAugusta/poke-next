@@ -1,6 +1,8 @@
+import style from '../../styles/Footer.module.css';
+
 export default function Footer() {
   return (
-    <footer>
+    <footer className={style.footer}>
       <p>
         <span>
           PokeNext
