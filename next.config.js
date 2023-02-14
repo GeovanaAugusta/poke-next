@@ -1,6 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
-}
-
-module.exports = nextConfig
+  images: {
+    domains: ["cdn.traction.one", 'raw.githubusercontent.com', 'cdn.bulbagarden.net'],
+    hostname:"cdn.traction.one",
+    formats: ["image/avif", "image/webp"],
+  },
+};
